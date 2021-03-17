@@ -1,0 +1,15 @@
+c:\users\javni nabavki\documents\visual studio 2015\Projects\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\bin\Debug\LinqToObjectAndQueryOperators.exe
+c:\users\javni nabavki\documents\visual studio 2015\Projects\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\bin\Debug\LinqToObjectAndQueryOperators.pdb
+c:\users\javni nabavki\documents\visual studio 2015\Projects\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.csprojResolveAssemblyReference.cache
+c:\users\javni nabavki\documents\visual studio 2015\Projects\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.exe
+c:\users\javni nabavki\documents\visual studio 2015\Projects\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.pdb
+C:\Users\Daniel\source\repos\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\bin\Debug\LinqToObjectAndQueryOperators.exe
+C:\Users\Daniel\source\repos\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\bin\Debug\LinqToObjectAndQueryOperators.pdb
+C:\Users\Daniel\source\repos\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.exe
+C:\Users\Daniel\source\repos\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.pdb
+D:\Trening C#\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\bin\Debug\LinqToObjectAndQueryOperators.exe
+D:\Trening C#\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\bin\Debug\LinqToObjectAndQueryOperators.pdb
+D:\Trening C#\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.csprojAssemblyReference.cache
+D:\Trening C#\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.exe
+D:\Trening C#\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.pdb
